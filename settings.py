@@ -36,7 +36,7 @@ user_exist = "SELECT chat_id FROM CHAT_ID where chat_id = '%d'"
 share_message = "tg://msg?text=Start @%s for download all the songs which you want ;)" % bot_name
 start_message = "Welcome to @%s \nPress '/' to get commands list" % bot_name
 not_supported_links = "Sorry :( The bot doesn't support this link %s :("
-rate_link = "https://t.me/BotsArchive/298"
+rate_link = "https://t.me/hunter_chat"
 end_message = "FINISHED :) Rate me here %s" % rate_link
 
 help_message = (
