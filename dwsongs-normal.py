@@ -1558,7 +1558,7 @@ def menu(update, context):
 				],
 			]
 
-			sendMessage(chat_id, "Press")
+			# sendMessage(chat_id, "Press")
 
 		else:
 			if ans == "2" and users[chat_id]['c_downloads'] == 3:
